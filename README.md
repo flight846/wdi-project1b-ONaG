@@ -1,6 +1,16 @@
-Simon-Says
+#A simple Simon-Says HTML5 game
 ==========
+##Techonologies Used
 
-HTML5, CSS3 &amp; jQuery version of classic game simon says
+- HTML 5
+- CSS 3
+- Vanilla Javascript
+- jQuery
+==========
+##Instructions
 
-Tutorial to be located at www.danpurdy.co.uk
+Choose player
+1. Player will try to follow what Simon had click on the pad
+
+https://www.dropbox.com/s/0yahr481ixnkcwh/simon-says.JPG?dl=0
+
