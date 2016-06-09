@@ -12,5 +12,5 @@
 Choose player
 1. Player will try to follow what Simon had click on the pad
 
-https://www.dropbox.com/s/0yahr481ixnkcwh/simon-says.JPG?dl=0
+![alt text](https://www.dropbox.com/s/0yahr481ixnkcwh/simon-says.JPG?dl=0)
 
